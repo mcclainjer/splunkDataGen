@@ -1,0 +1,4 @@
+This is a data generator that was built to populate a demo index in Splunk.  It simulates IT machine data as log messages from 
+the different systems specified.  There is a large pool of first and last names that are used in the log messages.  Things
+"break" in a predictable interval and events follow such as a message that a help desk ticket is generated.  Useful to create 
+lots of data, then train people on using splunk to solve a simulated problem.
